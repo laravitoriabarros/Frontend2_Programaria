@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Preview
 
-Resultado visual final.
+Resultado visual final, também pode ser acessado aqui: https://laravitoriabarros.github.io/Frontend2_Programaria/ .
 
 <div align="center">
 <img src="https://github.com/laravitoriabarros/Frontend2_Programaria/blob/main/Print%20Dicionário.png" width="1200px" />
